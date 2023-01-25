@@ -38,7 +38,7 @@ Divergent speciation relates to gradualism
 ### Gradualism and Punctuated Equilibrium Chart
 <br>
 
-![Gradualism and Punctuated Equilibrium Chart](https://files.mtstatic.com/site_4463/23260/0?Expires=1674609041&Signature=Stm6WeTvigvmc4hfavzl2Hv4mHeafVhLLKY5agbJeEl9cK3g2KEaT1vjJZkVzzMZKFRBTLDcg9zkuh2Q-r-qkzrqUVXoi9Y9UEC6k4NTzplM2engGCFpPm4lKifeT-0SLRoKlb4K-mNGdsI6I0DT3XDl~0geFO6yTuEy2mBCG8Q_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA "Gradualism and Punctuated Equilibrium Chart")
+![Gradualism and Punctuated Equilibrium Chart](Fossil_Diagram_1.png "Gradualism and Punctuated Equilibrium Chart")
 
 
 <br>
@@ -48,7 +48,7 @@ Divergent speciation relates to gradualism
 ### Speciation Types Chart
 <br>
 
-![Speciation Types Chart](https://files.mtstatic.com/site_4463/23261/0?Expires=1674609041&Signature=hXH9chZImoNbE8invuObRLtg0v60jobKAQ4TCYXAG4iqGNra-z0jXaSLYJahqM56RB1jbdAOLlU5Xh1T8SA0Zo6jgCmNxOQMKuVNePqouBT7ys-HyXVh5W~f4OBjLWek-DvDnksKHZU5rZ8Ihx60Sv0Vporykv78hQj2k75MS1o_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA "Speciation Types Chart")
+![Speciation Types Chart](Fossil_Diagram_2.png "Speciation Types Chart")
 
 
 
