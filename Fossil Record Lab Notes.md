@@ -20,7 +20,7 @@
 
 >Phyletic speciation: abrupt mutations in a few regulatory genes occur after a species has existed for a long period of time
 
->Divergent speciation: gradual accumulation of small genetic changes results in a subpopulation of a species that eventually accumulates so mnay changes that the supopulations become different species.
+>Divergent speciation: gradual accumulation of small genetic changes results in a subpopulation of a species that eventually accumulates so many changes that the subopulations become different species.
 
 >Phylogenetic tree: An evolutionary tree that can be used to place fossils in sequences that often show patterns of changes that have occurred over time
 
