@@ -24,6 +24,12 @@
 
 >Phylogenetic tree: An evolutionary tree that can be used to place fossils in sequences that often show patterns of changes that have occurred over time
 
+<br>
+<br>
+<br>
+
+Phyletic speciation relates to punctuated equilibrium  
+Divergent speciation relates to gradualism
 
 <br>
 <br>
