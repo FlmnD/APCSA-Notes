@@ -14,7 +14,7 @@
 
 >Gradualism: organisms evolve through a process of **slow** and constant change
 
->Puncuated equilibrium: species evolve very **rapidly** and they stay the same for a large period of time
+>Punctuated equilibrium: species evolve very **rapidly** and they stay the same for a large period of time
 
 >Speciation: the creation of new species
 
