@@ -1,5 +1,5 @@
-# DSA-Notes
-Data Structures and Algorithms Notes
+# APCSA-Notes
+Ap Computer Science A Notes
 
 # About
-This repository holds all of my data structures and algorithms notes.
+This repository holds all of my APCSA notes.
