@@ -10,7 +10,7 @@
 ## Syntax
 
 
-```
+```java
 import java.util.ArrayList;
 
 // Main method and class declaration not included
