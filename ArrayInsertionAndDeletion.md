@@ -27,4 +27,4 @@
 3. Move all elements to the right by starting at the end and shifting every element once to the right until index is reached (Make sure not to shift zeroes from right of the array)
 4. Replace the value at index with num, in this case 2
 
-#### Final result: `[1, 3, 7, 0]`
+#### Final result: `[1, 2, 3, 7]`
